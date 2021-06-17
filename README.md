@@ -1,2 +1,1 @@
-# SurvivorEnrageVersionCheck
-Just the display version
+1.0.0
